@@ -1,2 +1,3 @@
-# hyperheadtail
-Code related to the HyperHeadTail streaming algorithm
+# HyperHeadTail
+Code related to the HyperHeadTail streaming algorithm. 
+Coming soon... 
