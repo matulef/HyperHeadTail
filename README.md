@@ -1,3 +1,2 @@
 # HyperHeadTail
-Code related to the HyperHeadTail streaming algorithm. 
-Coming soon... 
+HyperHeadTail has moved here: https://github.com/astolman/HyperHeadTail
